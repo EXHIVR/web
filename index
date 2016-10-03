@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<title>exhivr | web</title>
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+		<link href="styles/main.css" type="text/css" rel="stylesheet">
+	               
+	</head>
+	<body>
+		<?php include_once("analyticstracking.php") ?>
+		<div id="wrapper">
+		
+			<header>
+				
+				<nav id="skipTo">
+					<ul>
+						
+					</ul>
+				</nav>
+				
+				<h1>Demo</h1>
+				
+				<nav>
+					<ul>
+						<li><a href="index.html" title="Home">Home</a></li>
+						<li><a href="about.html" title="About">About</a></li>
+						<li><a href="work.html" title="work">Work</a></li>
+						<li><a href="contact.html" title="Contact">Contact</a></li>
+					</ul>
+				</nav>
+				
+				<div id="banner">
+					<img src="images/kaws.jpg" alt="banner" />
+				</div>
+				
+			</header>	
+		
+			<section id="main">
+				<h1>EXHIVR THE NEW VIRTUAL REALITY TOOL FOR GALLERIES, CURATORS AND ARTISTS </h1>
+				<p>Exhivr is the new tool for galleries, curators and artists to design exhibitions, manage collections and broadcast artwork. This new tool becomes the new standard for exhibition design and  curating projects. The virtual reallity integration, allows to preview and edit the exhibitions in an unprecedented way.</p>
+			</section>
+		
+			<aside>
+				<h1>VIRTUAL SPACE </h1>
+				<p>The new generation of virtual reality devices has reach a point where the feeling of Presence when inmersed in the virtual world is becoming more and more a reality.
+                   </p>
+			</aside>
+            
+            <div id="banner">
+					<img src="images/HG-01.jpg" alt="banner" /><img src="images/HG-02.jpg" alt="banner" />
+				</div>
+	
+		</div>
+              	</body>
+    
+</html>
